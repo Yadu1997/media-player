@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 function Footer() {
   return (
     <div style={{height:"300px"}} className='container mt-5'>
-      <div className="d-flex justify-content-between">
+      <div className="d-lg-flex justify-content-between">
         <div style={{width:'400px'}} className="intro">
           <h5><i className="fa-solid fa-file-video"></i> Media Player</h5>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae eveniet esse praesentium quidem sunt beatae pariatur. Quos repellat obcaecati, ipsa, deleniti quis quod optio animi ab, eaque consequuntur doloremque fugiat?</p>
@@ -34,7 +34,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <p style={{color:'white'}} className='text-center mt-5 '>Copy right © Fonticons, Inc.</p>
+      <p style={{color:'white'}} className='text-center mt-5 '>Copy right © Media Player 2024, Inc.</p>
     </div>
   )
 }

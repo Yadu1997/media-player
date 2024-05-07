@@ -65,7 +65,7 @@ function Landing() {
           </div>
           <div className="col"></div>
           <div className="col-lg-6">
-          <iframe width="100%" height="400" src="https://www.youtube.com/embed/S_gkPs2svE0" title="Maduraikku Pogathadi  Hd Video Song | Azhagiya tamil magan | Vijay | Shriya | Star Music Spot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="100%" height="400" src="https://www.youtube.com/embed/S_gkPs2svE0" title="Maduraikku Pogathadi  Hd Video Song | Azhagiya tamil magan | Vijay | Shriya | Star Music Spot" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
           </div>
         </div>
       </div>
